@@ -3,13 +3,13 @@
 Hi! I'm Tahlin Yurii, a Junior Python Developer. This is my portfolio showcasing user interface and web application projects.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- Intro
 ![Project Image](static/images/preview1.png)
-- [Installation](#installation)
+- Portfolio
 ![Project Image](static/images/preview2.png)
-- [Usage](#usage)
+- About Me
 ![Project Image](static/images/preview3.png)
-- [About Me](#about-me)
+- Contact
 ![Project Image](static/images/preview4.png)
 
 ## Project Preview
